@@ -1,0 +1,4 @@
+{
+  "extends": ["@tsconfig/bun", "@tsconfig/vite-react", "@tsconfig/strictest"],
+  "exclude": ["node_modules", "out", "dist"]
+}
