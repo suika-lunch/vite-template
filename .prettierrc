@@ -1,3 +1,0 @@
-{
-  "plugins": ["@prettier/plugin-oxc", "prettier-plugin-tailwindcss"]
-}
